@@ -1,13 +1,11 @@
-# twitter-sentiment-analysis LinearRegressioin
-
-
 <h1>Twitter Sentiment Analysis with Linear Regression</h1>
 
 <p>This project aims to perform sentiment analysis on a dataset of 1,600,000 tweets using linear regression. The goal is to predict the sentiment (positive or negative) of tweets based on their content.</p>
 
 <h2>Dataset</h2>
 
-<p>The dataset used in this project consists of 1.6 million tweets collected from Twitter. Each tweet is labeled with its sentiment (positive or negative).</p>
+<p>The dataset used in this project consists of 1.6 million tweets collected from Kaggle dataset. Each tweet is labeled with its sentiment (positive or negative).</p>
+<p>You can use it's mini version from the repository <code>twitter-data-preprocessed</code></p>
 
 <h2>Preprocessing</h2>
 
